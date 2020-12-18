@@ -5,6 +5,9 @@ public class Sample {
 		System.out.println("hello");
 	}
 	public void method() {
+		System.out.println("  my world");
+	}
+	public void method2() {
 		System.out.println(" to the my world");
 	}
 	public static void main(String[] args) {
