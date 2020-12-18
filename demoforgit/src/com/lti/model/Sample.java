@@ -5,7 +5,7 @@ public class Sample {
 		System.out.println("hello");
 	}
 	public void method() {
-		System.out.println("my world");
+		System.out.println(" to the my world");
 	}
 	public static void main(String[] args) {
 		
